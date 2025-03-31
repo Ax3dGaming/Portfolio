@@ -1,0 +1,64 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/html.png",
+      "title": "HTML"
+    },
+    {
+      "id": "2",
+      "src": "./img/css.png",
+      "title": "CSS"
+    },
+    {
+      "id": "3",
+      "src": "./img/script-java.png",
+      "title": "Javascript"
+    },
+    {
+      "id": "4",
+      "src": "./img/java.png",
+      "title": "Java"
+    },
+    {
+      "id": "5",
+      "src": "./img/c++.png",
+      "title": "C++"
+    },
+    {
+      "id": "4",
+      "src": "./img/python.png",
+      "title": "Python"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/endersdelight.png",
+      "title": "Ender's Delight",
+      "description": "\nUn voyage culinaire dans l'End \n \nEnder's Delight est un addon de Farmer's Delight, enrichissant Minecraft avec des recettes inspirées par les ressources de l'End. Fruits de chorus, perles d'Ender et autres matériaux spécifiques se transforment en plats uniques, offrant un gameplay innovant et immersif.",
+      "tags": ["Java", "Team", "Modding", "Minecraft"],
+      "link": "Voir sur Curseforge",
+      "linkUrl": "https://www.curseforge.com/minecraft/mc-mods/enders-delight"
+    },
+    {
+      "id": "2",
+      "src": "./img/pebblegen.png",
+      "title": "Pebble Generation",
+      "description": "\nUne ressource simple pour enrichir votre survie Minecraft\n \nPebble Generation est un mod intuitif qui introduit une nouvelle mécanique pour récupérer des objets de base dans Minecraft. Avec ce mod, un simple clic droit en maintenant la touche Shift sur des blocs spécifiques (comme les blocs d'herbe) génère des ressources utiles comme des cailloux ou d'autres objets personnalisables.",
+      "tags": ["Java", "Modding", "Minecraft"],
+      "link": "Voir sur Curseforge",
+      "linkUrl": "https://www.curseforge.com/minecraft/mc-mods/pebble-generation"
+    },
+    {
+      "id": "3",
+      "src": "./img/createacademy.png",
+      "title": "Create Academy 3",
+      "description": "\nExplorez, construisez et innovez dans l'univers de Minecraft\n\nCreate Academy est un serveur Minecraft dédié au mod Create, conçu pour les passionnés de construction, de machines et d'ingénierie. Ce projet offre une expérience immersive où les joueurs utilisent les outils avancés du mod Create pour concevoir des systèmes automatisés, des machines complexes et même des réseaux ferroviaires.",
+      "tags": ["Java", "Linux", "Team", "Minecraft"],
+      "link": "Visiter le site",
+      "linkUrl": "https://www.createacademy.net"
+    }
+]
+
+}
